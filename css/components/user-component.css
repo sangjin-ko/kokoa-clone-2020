@@ -55,3 +55,8 @@
 .user-component {
     margin-bottom: 25px;
 }
+
+.user-component__subtitle i {
+    position: relative;
+    left: 5px;
+}
